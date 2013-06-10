@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 module Subscribem
-  describe DashboardController do
+  describe Account::SessionsController do
   
   end
 end
